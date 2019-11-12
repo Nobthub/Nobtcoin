@@ -1,5 +1,16 @@
 ![nobt](https://user-images.githubusercontent.com/25778549/54613006-a5c65600-4a62-11e9-8f76-37349492540c.png)
 
+Website: https://nobt.info
+Explorer: https://explorer.nobt.info
+Forum: https://bitcointalk.org/index.php?topic=1789342.0
+Twitter: https://twitter.com/WNobt
+Discord: https://discord.gg/tdwBz4v
+Telegram: https://t.me/NobtCoin
+https://coinpaprika.com/coin/nobt-nobt/
+nobt logo 300x300 : https://ibb.co/fQHJNxV
+Type of coin: Hybrid PoW+PoS
+Coin Algorithm: Scrypt
+
 NOBTCOIN development tree
 
 NOBTCOIN is a PoS-based cryptocurrency.
