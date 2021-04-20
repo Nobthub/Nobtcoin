@@ -1,8 +1,8 @@
 ![nobt](https://user-images.githubusercontent.com/25778549/54613006-a5c65600-4a62-11e9-8f76-37349492540c.png)
 
-Website: https://nobt.info
+Website: https://nobt.allswap.xyz
 
-Explorer: https://explorer.nobt.info
+Explorer: https://explorer.allswap.xyz
 
 Forum: https://bitcointalk.org/index.php?topic=1789342.0
 
